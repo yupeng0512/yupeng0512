@@ -19,7 +19,6 @@
 
 </pre> 
 
-<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
 <!-- <a href="https://github.com/mogeko#gh-light-mode-only">
   <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&include_all_commits=true&disable_animations=true#gh-light-mode-only">
@@ -49,6 +48,7 @@ I am a back-end developer. I hope to be a **Full-stack** in the future.
 
 ![skillicons](https://skillicons.dev/icons?i=java,go,mysql,redis,mongodb,maven,spring,kafka,linux,html,css,sass,js,ts,vue,react,nodejs,vite,kotlin,flutter,docker,k8s,git,github,gitlab,idea,vscode,visualstudio,nextjs,md,lua,py,rust,php,c,cpp,openstack,scala,webpack,postgres,vim,unity,postman,stackoverflow,cloudflare#gh-dark-mode-only)
 
+<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
 ### :mailbox: How to reach me:
 
