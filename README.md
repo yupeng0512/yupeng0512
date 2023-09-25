@@ -49,92 +49,6 @@ I am a student of **Debrecen University**, Hungary, majoring in **Computer Scien
 
 ![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,gatsby,tailwind,sass,styledcomponents,graphql,jest,java,py,rust,php,c,cpp,elixir,latex,nodejs,vite,rollupjs,webpack,redis,postgres,git,vscode,visualstudio,eclipse,idea,vim,docker,bash,ps,ai,linux,bsd,github,gitlab,stackoverflow,azure,vercel,cloudflare#gh-dark-mode-only)
 
-### :mortar_board: Education
-
-<table style="width: 100%;">
-  <thead>
-    <tr>
-      <th colspan="3">University of Debrecen</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="5"><img alt="University of Debrecen" src="./assets/unideb-logo.png"></td>
-      <td>:calendar: Duration</td>
-      <td>Since 2020.08 to now</td>
-    </tr>
-    <tr>
-      <td>:microscope: Major</td>
-      <td>Computer Science</td>
-    </tr>
-    <tr>
-      <td>:pushpin: Location</td>
-      <td><a href="https://goo.gl/maps/SWBjYd8a2Sb3iuk36">Debrecen, Kassai út 26, Hungry, 4028</a></td>
-    </tr>
-    <tr>
-      <td>:globe_with_meridians: Website</td>
-      <td>http://www.inf.unideb.hu</td>
-    </tr>
-    <tr>
-      <td>:dart: GPA</td>
-      <td>3.77 / 5</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <details>
-          <summary>:books: Obligatory course</summary>
-          <ul>
-            <li>:white_check_mark: Applied mathematics</li>
-            <li>:white_check_mark: Applied statistics</li>
-            <li>:white_check_mark: Calculus</li>
-            <li>:white_check_mark: Computer aided mathematics and visualization</li>
-            <li>:white_check_mark: Credit Completed in Other Institution</li>
-            <li>:white_check_mark: Data structures and algorithms</li>
-            <li>:white_check_mark: Database systems lab</li>
-            <li>:white_check_mark: Database systems</li>
-            <li>:white_check_mark: Discrete mathematics</li>
-            <li>:dart: Foundations of artificial intelligence</li>
-            <li>:white_check_mark: Foundations of computer security</li>
-            <li>:white_check_mark: High-level programming languages 1 lab</li>
-            <li>:white_check_mark: High-level programming languages 1</li>
-            <li>:white_check_mark: High-level programming languages 2</li>
-            <li>:white_check_mark: Introduction to computer science</li>
-            <li>:white_check_mark: Introduction to programming</li>
-            <li>:white_check_mark: Logic in computer science</li>
-            <li>:white_check_mark: Network architectures and protocols</li>
-            <li>:white_check_mark: Operating systems</li>
-            <li>:white_check_mark: Software development methodologies</li>
-            <li>:white_check_mark: Software engineering and technologies</li>
-            <li>:dart: Thesis</li>
-            <li>:white_check_mark: Web application development</li>
-            <li>:white_check_mark: Web technologies</li>
-          </ul>
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <details>
-          <summary>:books: Elective course</summary>
-          <ul>
-            <li>:white_check_mark: 3D printing and modeling</li>
-            <li>:white_check_mark: Basics of GIS</li>
-            <li>:white_check_mark: Blockhain technology</li>
-            <li>:white_check_mark: Cloud computing</li>
-            <li>:white_check_mark: Computer Statistics</li>
-            <li>:white_check_mark: High-level programming languages 3</li>
-            <li>:white_check_mark: Image processing in practice</li>
-            <li>:white_check_mark: Introduction to 3D game development</li>
-            <li>:white_check_mark: Mobile application development</li>
-            <li>:white_check_mark: NoSQL databases</li>
-            <li>:white_check_mark: Scripting Languages</li>
-            <li>:white_check_mark: Software testing</li>
-          </ul>
-        </details>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ### :mailbox: How to reach me:
 
@@ -143,8 +57,8 @@ I am a student of **Debrecen University**, Hungary, majoring in **Computer Scien
 
 
 <!-- Links -->
-[blog]: https://mogeko.github.io
-[e-mail]: mailto:zhengjunyi@live.com
+[blog]: [https://mogeko.github.io](https://yupeng0512.github.io/)
+[e-mail]: mailto:yp13775738821@gmail.com
 [github]: https://github.com/mogeko
 
 <!-- Skills -->
