@@ -30,7 +30,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+     
+<strong>Hi, I am zhiyuan-Tang !👋 </strong>
 
+<strong>A front-end developer from China🇨🇳. </strong>
+
+</pre> 
+
+<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
 <!-- <a href="https://github.com/mogeko#gh-light-mode-only">
   <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&include_all_commits=true&disable_animations=true#gh-light-mode-only">
