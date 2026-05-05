@@ -38,5 +38,4 @@ I work on platform backend systems, high-volume batch processing, observability,
 
 - GitHub: [github.com/yupeng0512](https://github.com/yupeng0512)
 - Portfolio: [yupeng0512.github.io](https://yupeng0512.github.io)
-- Personal Card: [personal-card.vercel.app](https://personal-card.vercel.app)
 - Email: [yp13775738821@gmail.com](mailto:yp13775738821@gmail.com)
